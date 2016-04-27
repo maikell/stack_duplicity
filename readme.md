@@ -100,6 +100,6 @@ mkdir -p /srv/stack/$servername/$directory
 Changelog
 =========
 
-2016-04-27: Fixed layout of readme.md
-2016-04-27: First publication
+* 2016-04-27: Fixed layout of readme.md
+* 2016-04-27: First publication
 
