@@ -1,8 +1,8 @@
 Background material
 ===================
 
-https://www.transip.nl/vragen/756-stack-externe-voor-mijn-gebruiken/ (NL)
-https://help.ubuntu.com/community/DuplicityBackupHowto 
+* https://www.transip.nl/vragen/756-stack-externe-voor-mijn-gebruiken/ (NL)
+* https://help.ubuntu.com/community/DuplicityBackupHowto 
 
 Introduction 
 =============
@@ -100,4 +100,6 @@ mkdir -p /srv/stack/$servername/$directory
 Changelog
 =========
 
+2016-04-27: Fixed layout of readme.md
 2016-04-27: First publication
+
